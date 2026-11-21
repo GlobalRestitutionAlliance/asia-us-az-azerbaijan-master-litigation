@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: azerbaijanan-restitution-roadmap-and-qsf-trust-execution
-  name: Azerbaijanan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/azerbaijanan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_az_001
+    name: Azerbaijan Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_002
+    name: Azerbaijan Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_003
+    name: Azerbaijan Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_004
+    name: Azerbaijan Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_005
+    name: Azerbaijan Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_006
+    name: Azerbaijan Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_007
+    name: Azerbaijan Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_008
+    name: Azerbaijan Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_009
+    name: Azerbaijan Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_010
+    name: Azerbaijan Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_011
+    name: Azerbaijan Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_012
+    name: Azerbaijan Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_013
+    name: Azerbaijan Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_014
+    name: Azerbaijan Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_015
+    name: Azerbaijan Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_016
+    name: Azerbaijan Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_017
+    name: Azerbaijan Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_018
+    name: Azerbaijan Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_019
+    name: Azerbaijan Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_020
+    name: Azerbaijan Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_021
+    name: Azerbaijan Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_022
+    name: Azerbaijan Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_023
+    name: Azerbaijan Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_024
+    name: Azerbaijan Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_025
+    name: Azerbaijan Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_026
+    name: Azerbaijan Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_027
+    name: Azerbaijan Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_028
+    name: Azerbaijan Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_029
+    name: Azerbaijan Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_030
+    name: Azerbaijan Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_031
+    name: Azerbaijan Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_032
+    name: Azerbaijan Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_033
+    name: Azerbaijan Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_034
+    name: Azerbaijan Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_035
+    name: Azerbaijan Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_036
+    name: Azerbaijan Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_037
+    name: Azerbaijan Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_038
+    name: Azerbaijan Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_039
+    name: Azerbaijan Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_040
+    name: Azerbaijan Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_041
+    name: Azerbaijan Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_042
+    name: Azerbaijan Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_043
+    name: Azerbaijan Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_044
+    name: Azerbaijan Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_045
+    name: Azerbaijan Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_046
+    name: Azerbaijan Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_047
+    name: Azerbaijan Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_048
+    name: Azerbaijan Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_049
+    name: Azerbaijan Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_050
+    name: Azerbaijan Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_051
+    name: Azerbaijan Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_052
+    name: Azerbaijan Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_053
+    name: Azerbaijan Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_054
+    name: Azerbaijan Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_055
+    name: Azerbaijan Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_056
+    name: Azerbaijan Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_057
+    name: Azerbaijan Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_058
+    name: Azerbaijan Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_059
+    name: Azerbaijan Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_060
+    name: Azerbaijan Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_061
+    name: Azerbaijan Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_062
+    name: Azerbaijan Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_063
+    name: Azerbaijan Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_064
+    name: Azerbaijan Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_065
+    name: Azerbaijan Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_066
+    name: Azerbaijan Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_067
+    name: Azerbaijan Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_068
+    name: Azerbaijan Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_069
+    name: Azerbaijan Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_070
+    name: Azerbaijan Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_071
+    name: Azerbaijan Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_072
+    name: Azerbaijan Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_073
+    name: Azerbaijan Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_074
+    name: Azerbaijan Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_075
+    name: Azerbaijan Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_076
+    name: Azerbaijan Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_077
+    name: Azerbaijan Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_078
+    name: Azerbaijan Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_079
+    name: Azerbaijan Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_080
+    name: Azerbaijan Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_081
+    name: Azerbaijan Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_082
+    name: Azerbaijan Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_083
+    name: Azerbaijan Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_084
+    name: Azerbaijan Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_085
+    name: Azerbaijan Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_086
+    name: Azerbaijan Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_087
+    name: Azerbaijan Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_088
+    name: Azerbaijan Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_089
+    name: Azerbaijan Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_090
+    name: Azerbaijan Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_091
+    name: Azerbaijan Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_092
+    name: Azerbaijan Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_093
+    name: Azerbaijan Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_094
+    name: Azerbaijan Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_095
+    name: Azerbaijan Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_096
+    name: Azerbaijan Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_097
+    name: Azerbaijan Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_098
+    name: Azerbaijan Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_099
+    name: Azerbaijan Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_100
+    name: Azerbaijan Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_101
+    name: Azerbaijan Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_102
+    name: Azerbaijan Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_103
+    name: Azerbaijan Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_104
+    name: Azerbaijan Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_105
+    name: Azerbaijan Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_106
+    name: Azerbaijan Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_107
+    name: Azerbaijan Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_108
+    name: Azerbaijan Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_109
+    name: Azerbaijan Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_110
+    name: Azerbaijan Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_111
+    name: Azerbaijan Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_112
+    name: Azerbaijan Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_113
+    name: Azerbaijan Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_114
+    name: Azerbaijan Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_115
+    name: Azerbaijan Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_116
+    name: Azerbaijan Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_117
+    name: Azerbaijan Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_118
+    name: Azerbaijan Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_119
+    name: Azerbaijan Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_120
+    name: Azerbaijan Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_121
+    name: Azerbaijan Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_122
+    name: Azerbaijan Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_123
+    name: Azerbaijan Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_124
+    name: Azerbaijan Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_125
+    name: Azerbaijan Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_126
+    name: Azerbaijan Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_127
+    name: Azerbaijan Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_128
+    name: Azerbaijan Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_129
+    name: Azerbaijan Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_130
+    name: Azerbaijan Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_131
+    name: Azerbaijan Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_132
+    name: Azerbaijan Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_133
+    name: Azerbaijan Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_134
+    name: Azerbaijan Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_135
+    name: Azerbaijan Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_136
+    name: Azerbaijan Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_137
+    name: Azerbaijan Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_138
+    name: Azerbaijan Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_139
+    name: Azerbaijan Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_140
+    name: Azerbaijan Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_141
+    name: Azerbaijan Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_142
+    name: Azerbaijan Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_143
+    name: Azerbaijan Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_144
+    name: Azerbaijan Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_145
+    name: Azerbaijan Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_146
+    name: Azerbaijan Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_147
+    name: Azerbaijan Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_148
+    name: Azerbaijan Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_149
+    name: Azerbaijan Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_150
+    name: Azerbaijan Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_151
+    name: Azerbaijan Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_152
+    name: Azerbaijan Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_153
+    name: Azerbaijan Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_154
+    name: Azerbaijan Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_155
+    name: Azerbaijan Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_156
+    name: Azerbaijan Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_157
+    name: Azerbaijan Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_158
+    name: Azerbaijan Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_159
+    name: Azerbaijan Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_160
+    name: Azerbaijan Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_161
+    name: Azerbaijan Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_162
+    name: Azerbaijan Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_163
+    name: Azerbaijan Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_164
+    name: Azerbaijan Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_165
+    name: Azerbaijan Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_166
+    name: Azerbaijan Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_167
+    name: Azerbaijan Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_168
+    name: Azerbaijan Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_169
+    name: Azerbaijan Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_170
+    name: Azerbaijan Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_171
+    name: Azerbaijan Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_172
+    name: Azerbaijan Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_173
+    name: Azerbaijan Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_174
+    name: Azerbaijan Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_175
+    name: Azerbaijan Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_176
+    name: Azerbaijan Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_177
+    name: Azerbaijan Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_178
+    name: Azerbaijan Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_179
+    name: Azerbaijan Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_180
+    name: Azerbaijan Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_181
+    name: Azerbaijan Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_182
+    name: Azerbaijan Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_183
+    name: Azerbaijan Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_184
+    name: Azerbaijan Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_185
+    name: Azerbaijan Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_186
+    name: Azerbaijan Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_187
+    name: Azerbaijan Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_188
+    name: Azerbaijan Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_189
+    name: Azerbaijan Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_190
+    name: Azerbaijan Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_191
+    name: Azerbaijan Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_192
+    name: Azerbaijan Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_193
+    name: Azerbaijan Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_194
+    name: Azerbaijan Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_195
+    name: Azerbaijan Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_196
+    name: Azerbaijan Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_197
+    name: Azerbaijan Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_198
+    name: Azerbaijan Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_199
+    name: Azerbaijan Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_200
+    name: Azerbaijan Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_201
+    name: Azerbaijan Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_202
+    name: Azerbaijan Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_203
+    name: Azerbaijan Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_204
+    name: Azerbaijan Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_205
+    name: Azerbaijan Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_206
+    name: Azerbaijan Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_207
+    name: Azerbaijan Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_208
+    name: Azerbaijan Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_209
+    name: Azerbaijan Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_210
+    name: Azerbaijan Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_211
+    name: Azerbaijan Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_212
+    name: Azerbaijan Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_213
+    name: Azerbaijan Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_214
+    name: Azerbaijan Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_215
+    name: Azerbaijan Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_216
+    name: Azerbaijan Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_217
+    name: Azerbaijan Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_218
+    name: Azerbaijan Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_219
+    name: Azerbaijan Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_220
+    name: Azerbaijan Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_221
+    name: Azerbaijan Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_222
+    name: Azerbaijan Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_223
+    name: Azerbaijan Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_224
+    name: Azerbaijan Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_225
+    name: Azerbaijan Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_226
+    name: Azerbaijan Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_227
+    name: Azerbaijan Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_228
+    name: Azerbaijan Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_229
+    name: Azerbaijan Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_230
+    name: Azerbaijan Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_231
+    name: Azerbaijan Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_232
+    name: Azerbaijan Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_233
+    name: Azerbaijan Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_234
+    name: Azerbaijan Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_235
+    name: Azerbaijan Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_236
+    name: Azerbaijan Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_237
+    name: Azerbaijan Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_238
+    name: Azerbaijan Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_239
+    name: Azerbaijan Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_240
+    name: Azerbaijan Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_241
+    name: Azerbaijan Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_242
+    name: Azerbaijan Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_243
+    name: Azerbaijan Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_244
+    name: Azerbaijan Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_245
+    name: Azerbaijan Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_246
+    name: Azerbaijan Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_247
+    name: Azerbaijan Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_248
+    name: Azerbaijan Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_249
+    name: Azerbaijan Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_250
+    name: Azerbaijan Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_251
+    name: Azerbaijan Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_az_252
+    name: Azerbaijan Skill 252
+    status: ACTIVE_SCAFFOLD

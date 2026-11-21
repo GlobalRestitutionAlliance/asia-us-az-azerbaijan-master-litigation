@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-azerbaijan-canal-and-intervention-historian
-  name: Azerbaijan Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-azerbaijan-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_az_001
+    name: Azerbaijan Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_002
+    name: Azerbaijan Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_003
+    name: Azerbaijan Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_004
+    name: Azerbaijan Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_005
+    name: Azerbaijan Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_006
+    name: Azerbaijan Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_007
+    name: Azerbaijan Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_008
+    name: Azerbaijan Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_009
+    name: Azerbaijan Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_010
+    name: Azerbaijan Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_011
+    name: Azerbaijan Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_012
+    name: Azerbaijan Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_013
+    name: Azerbaijan Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_014
+    name: Azerbaijan Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_015
+    name: Azerbaijan Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_016
+    name: Azerbaijan Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_017
+    name: Azerbaijan Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_018
+    name: Azerbaijan Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_019
+    name: Azerbaijan Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_020
+    name: Azerbaijan Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_021
+    name: Azerbaijan Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_022
+    name: Azerbaijan Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_023
+    name: Azerbaijan Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_024
+    name: Azerbaijan Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_025
+    name: Azerbaijan Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_026
+    name: Azerbaijan Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_027
+    name: Azerbaijan Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_028
+    name: Azerbaijan Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_029
+    name: Azerbaijan Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_030
+    name: Azerbaijan Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_031
+    name: Azerbaijan Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_032
+    name: Azerbaijan Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_033
+    name: Azerbaijan Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_034
+    name: Azerbaijan Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_035
+    name: Azerbaijan Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_036
+    name: Azerbaijan Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_037
+    name: Azerbaijan Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_038
+    name: Azerbaijan Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_039
+    name: Azerbaijan Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_040
+    name: Azerbaijan Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_041
+    name: Azerbaijan Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_042
+    name: Azerbaijan Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_043
+    name: Azerbaijan Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_044
+    name: Azerbaijan Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_045
+    name: Azerbaijan Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_046
+    name: Azerbaijan Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_047
+    name: Azerbaijan Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_048
+    name: Azerbaijan Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_049
+    name: Azerbaijan Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_050
+    name: Azerbaijan Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_051
+    name: Azerbaijan Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_052
+    name: Azerbaijan Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_053
+    name: Azerbaijan Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_054
+    name: Azerbaijan Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_055
+    name: Azerbaijan Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_056
+    name: Azerbaijan Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_057
+    name: Azerbaijan Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_058
+    name: Azerbaijan Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_059
+    name: Azerbaijan Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_060
+    name: Azerbaijan Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_061
+    name: Azerbaijan Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_062
+    name: Azerbaijan Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_063
+    name: Azerbaijan Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_064
+    name: Azerbaijan Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_065
+    name: Azerbaijan Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_066
+    name: Azerbaijan Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_067
+    name: Azerbaijan Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_068
+    name: Azerbaijan Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_069
+    name: Azerbaijan Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_070
+    name: Azerbaijan Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_071
+    name: Azerbaijan Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_072
+    name: Azerbaijan Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_073
+    name: Azerbaijan Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_074
+    name: Azerbaijan Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_075
+    name: Azerbaijan Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_076
+    name: Azerbaijan Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_077
+    name: Azerbaijan Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_078
+    name: Azerbaijan Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_079
+    name: Azerbaijan Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_080
+    name: Azerbaijan Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_081
+    name: Azerbaijan Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_082
+    name: Azerbaijan Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_083
+    name: Azerbaijan Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_084
+    name: Azerbaijan Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_085
+    name: Azerbaijan Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_086
+    name: Azerbaijan Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_087
+    name: Azerbaijan Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_088
+    name: Azerbaijan Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_089
+    name: Azerbaijan Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_090
+    name: Azerbaijan Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_091
+    name: Azerbaijan Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_092
+    name: Azerbaijan Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_093
+    name: Azerbaijan Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_094
+    name: Azerbaijan Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_095
+    name: Azerbaijan Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_096
+    name: Azerbaijan Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_097
+    name: Azerbaijan Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_098
+    name: Azerbaijan Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_099
+    name: Azerbaijan Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_100
+    name: Azerbaijan Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_101
+    name: Azerbaijan Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_102
+    name: Azerbaijan Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_103
+    name: Azerbaijan Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_104
+    name: Azerbaijan Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_105
+    name: Azerbaijan Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_106
+    name: Azerbaijan Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_107
+    name: Azerbaijan Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_108
+    name: Azerbaijan Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_109
+    name: Azerbaijan Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_110
+    name: Azerbaijan Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_111
+    name: Azerbaijan Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_112
+    name: Azerbaijan Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_113
+    name: Azerbaijan Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_114
+    name: Azerbaijan Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_115
+    name: Azerbaijan Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_116
+    name: Azerbaijan Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_117
+    name: Azerbaijan Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_118
+    name: Azerbaijan Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_119
+    name: Azerbaijan Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_120
+    name: Azerbaijan Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_121
+    name: Azerbaijan Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_122
+    name: Azerbaijan Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_123
+    name: Azerbaijan Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_124
+    name: Azerbaijan Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_125
+    name: Azerbaijan Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_126
+    name: Azerbaijan Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_127
+    name: Azerbaijan Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_128
+    name: Azerbaijan Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_129
+    name: Azerbaijan Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_130
+    name: Azerbaijan Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_131
+    name: Azerbaijan Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_132
+    name: Azerbaijan Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_133
+    name: Azerbaijan Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_134
+    name: Azerbaijan Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_135
+    name: Azerbaijan Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_136
+    name: Azerbaijan Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_137
+    name: Azerbaijan Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_138
+    name: Azerbaijan Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_139
+    name: Azerbaijan Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_140
+    name: Azerbaijan Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_141
+    name: Azerbaijan Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_142
+    name: Azerbaijan Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_143
+    name: Azerbaijan Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_144
+    name: Azerbaijan Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_145
+    name: Azerbaijan Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_146
+    name: Azerbaijan Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_147
+    name: Azerbaijan Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_148
+    name: Azerbaijan Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_149
+    name: Azerbaijan Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_150
+    name: Azerbaijan Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_151
+    name: Azerbaijan Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_152
+    name: Azerbaijan Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_153
+    name: Azerbaijan Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_154
+    name: Azerbaijan Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_155
+    name: Azerbaijan Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_156
+    name: Azerbaijan Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_157
+    name: Azerbaijan Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_158
+    name: Azerbaijan Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_159
+    name: Azerbaijan Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_160
+    name: Azerbaijan Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_161
+    name: Azerbaijan Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_162
+    name: Azerbaijan Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_163
+    name: Azerbaijan Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_164
+    name: Azerbaijan Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_165
+    name: Azerbaijan Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_166
+    name: Azerbaijan Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_167
+    name: Azerbaijan Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_168
+    name: Azerbaijan Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_169
+    name: Azerbaijan Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_az_170
+    name: Azerbaijan Agent 170
+    status: ACTIVE_SCAFFOLD
