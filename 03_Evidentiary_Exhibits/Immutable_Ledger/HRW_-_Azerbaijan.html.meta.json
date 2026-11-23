@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/europe/central-asia/azerbaijan",
+  "final_url": "https://www.hrw.org/europe/central-asia/azerbaijan",
+  "title": "HRW - Azerbaijan",
+  "fetched_at": "2026-11-23T15:21:15.490887Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 200862,
+  "sha256": "a6988fe7f2654292d0d6cf4cf09b3c005015c25719be2ac61dc7475b3f936c1e",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.icrc.org/en/where-we-work/europe-central-asia/azerbaijan",
+  "final_url": "https://www.icrc.org/en/where-we-work/azerbaijan",
+  "title": "ICRC - Azerbaijan",
+  "fetched_at": "2026-11-23T15:21:17.231888Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 71329,
+  "sha256": "642ce6dd57e1c93a1e78f8ffe917128dd631e557738be135165654c754853db8",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Possible challenge/empty capture; pending recapture.",
+  "redaction_note": "Redacted Mapbox token from public captured HTML before push; hash/bytes updated."
+}
